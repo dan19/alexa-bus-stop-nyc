@@ -1,0 +1,7 @@
+{
+  "name": "alexa-bus-stop-nyc",
+  "version": "1.0.0",
+  "dependencies": {
+    "aws-sdk": "2.83.0"
+  }
+}
